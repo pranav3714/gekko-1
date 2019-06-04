@@ -22,4 +22,5 @@ Step 5: Clone or download this repository to a folder in your file.
  For additional info <a href='https://gekko.wizb.it/docs/introduction/about_gekko.html'>visit here</a>.
  <br><strong>Feature </strong>
  <br>Pre-integrated with two most profitable strategies I have seen till now.(neuralnet, neuralnet_v2, DynBuySell)
-  
+  <br><br>
+  <strong>Use at your own risk.</strong>
