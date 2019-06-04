@@ -199,14 +199,14 @@ config.ircbot = {
 }
 
 config.telegrambot = {
-  enabled: true,
+  enabled: false,
   emitUpdates: true,
   tradeCompleted: true,
   tradeErrored: true,
   tradeAborted: true,
   // Receive notifications for trades and warnings/errors related to trading
   emitTrades: true,
-  token: '644498505:AAH_hqQyyVMQ0Gvv-RZsOKZbDNVeGl_qLj4',
+  token: 'telegrambotAPIkey',
 };
 
 config.twitter = {
