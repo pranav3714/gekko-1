@@ -20,6 +20,6 @@ Step 5: Clone or download this repository to a folder in your file.
  I was not able to make the UI of this bot work and I don't recommend activating it due to security reasons.<br>
  You can create and deploy your own strategies or that you get from the Internet by making changes to the strategies folder.<br>
  For additional info <a href='https://gekko.wizb.it/docs/introduction/about_gekko.html'>visit here</a>.
- <strong>Feature </strong><br>
+ <br><strong>Feature </strong>
  <br>Pre-integrated with two most profitable strategies I have seen till now.(neuralnet, neuralnet_v2, DynBuySell)
   
