@@ -27,13 +27,13 @@ config.watch = {
 
 config.tradingAdvisor = {
   enabled: true,
-  method: 'neuralnet',
+  method: 'neuralnet_v2',
   candleSize: 4,
   historySize: 73,
 }
-config.neuralnet = {
-	threshold_buy : 0.5,
-	threshold_sell : 0.5,
+config.neuralnet_v2 = {
+	threshold_buy : 1.0,
+	threshold_sell : -1.0,
 	
 	learning_rate : 0.01,
 	momentum : 0.1,
