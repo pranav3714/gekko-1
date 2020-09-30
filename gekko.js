@@ -8,7 +8,7 @@
 
   https://gekko.wizb.it/docs/internals/architecture.html
 
-  Disclaimer:
+  
 
   USE AT YOUR OWN RISK!
 
